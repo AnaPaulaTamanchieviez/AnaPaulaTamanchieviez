@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnaPaulaTamanchieviez
 - 👀 I’m interested in improving my knowledge
-- 🌱 I’m currently learning Python, Java, C, C++, JavaScript.
 - 📫 How to reach me: https://www.linkedin.com/mwlite/in/ana-paula-tamanchieviez-334529163
 - 🐶 Completely in love with dogs 
 
